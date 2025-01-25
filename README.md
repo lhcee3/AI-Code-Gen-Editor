@@ -1,5 +1,6 @@
 # AI Code Generator: Bridging Development Gaps in 2025
 
+![swecha ai](https://github.com/user-attachments/assets/08db49aa-928b-4b6a-bc47-67925fac060a)
 
 A next-generation code generation tool that leverages AI to create React components and HTML/CSS code in real-time. Built for the modern developer ecosystem where rapid prototyping meets production-ready code.
 
