@@ -50,6 +50,7 @@ CodeCreator
 - **Development**: ESLint, Prettier
 
 ## Setup
+NOTE: Entire code base is present in the feature of this repository.
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Copy `.env.example` to `.env.local` and add your Hugging Face API key
