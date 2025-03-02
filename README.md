@@ -97,9 +97,5 @@ useEffect(() => {
 ## Impact and Innovation
 This project demonstrates the practical application of AI in modern development workflows, potentially saving thousands of development hours while maintaining code quality and consistency. It serves as a bridge between traditional coding practices and AI-assisted development, making it an essential tool for developers in 2025.
 
-### Team Members
-[Sai Aneesh](mailto:gspamad@gmail.com)   
-[Venkat Vatshal](mailto:venkatvatshal@gmail.com)    
-[Sujay Hiremanth](mailto:sujayhiremanth05@gmail.com)
 
 
